@@ -1,12 +1,49 @@
-- 👋 Hi, I’m @sgmtg-jcustance
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm James Custance (sgmtg-jcustance)
 
-<!---
-sgmtg-jcustance/sgmtg-jcustance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Azure Infrastructure Engineer
+
+I'm an Azure Infrastructure Engineer specializing in designing, implementing, and automating Azure solutions. My expertise is focused on Infrastructure as Code (IaC), leveraging Azure Bicep and Terraform, and building robust CI/CD pipelines with Azure DevOps.
+
+---
+
+### 🛠️ Top Skills
+
+- **Azure Infrastructure**: Architecting secure, scalable, and cost-effective cloud environments
+- **Infrastructure as Code**: Deep experience with Azure Bicep & Terraform
+- **DevOps Automation**: Building and maintaining Azure DevOps pipelines for seamless deployments
+- **PowerShell Programming**: Automating tasks and streamlining workflows
+- **Networking**: Designing and troubleshooting cloud and hybrid network solutions
+
+---
+
+### 🌟 Featured Projects
+
+- [**Constellation-AIGenie Infrastructure**](https://github.com/Spyglass-MTG/constellation-aigenie-infrastructure):  
+  Infrastructure foundation powering the next generation of AI-driven solutions in Azure.
+
+- **Fabric Loom**  
+  (Add repo link or description here if available!)
+
+---
+
+### 💡 About Me
+
+- Passionate about cloud automation and infrastructure best practices
+- Always exploring new ways to optimize and secure Azure environments
+- Advocate for clean code, repeatable processes, and collaborative DevOps culture
+
+---
+
+<!-- Optionally add social/contact links below -->
+
+<!--
+### 📫 Connect With Me
+[LinkedIn](#) | [Twitter](#) | [Personal Website](#)
+-->
+
+---
+
+<!-- Optional: Fun fact or quote -->
+<!--
+> "Simplicity is the soul of efficiency." – Austin Freeman
+-->
