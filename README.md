@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James Custance (sgmtg-jcustance)
+# 👋 Hi, I'm Joshua Custance (sgmtg-jcustance)
 
 ## 🚀 Azure Infrastructure Engineer
 
