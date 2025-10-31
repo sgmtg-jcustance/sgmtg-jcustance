@@ -18,12 +18,6 @@ I'm an Azure Infrastructure Engineer specializing in designing, implementing, an
 
 ### 🌟 Featured Projects
 
-- [**Constellation-AIGenie Infrastructure**](https://github.com/Spyglass-MTG/constellation-aigenie-infrastructure):  
-  Infrastructure foundation powering the next generation of AI-driven solutions in Azure.
-
-- **Fabric Loom**  
-  (Add repo link or description here if available!)
-
 ---
 
 ### 💡 About Me
